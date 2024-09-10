@@ -20,8 +20,8 @@
 
 - **Languages:**  Java ☕, C++ 💻, SQL 🗃️
 - **Frameworks:** Spring Boot 🚀
-- **Databases:** MySQL 💾, PostgreSQL 🗄️, FireBase 📦
-- **Tools & Platforms:** Docker 🐋, Git 🦄, Jenkins 🔧
+- **Databases:** MySQL 💾, FireBase 📦
+- **Tools & Platforms:** Docker 🐋, Git 🦄
 
 
 
