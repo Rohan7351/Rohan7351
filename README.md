@@ -33,7 +33,7 @@
 - [Twitter](https://twitter.com/your-twitter) 🐦
 - [Email](mailto:rohan.rana.7351@gmail.com) 📧
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 
 - Contribute to open-source projects 🌍
 - Learn and implement new backend technologies 🧠
